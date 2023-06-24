@@ -1,6 +1,6 @@
-# All tables extracted in branch 1
-# issue with some data converted to dates
-# to remove the first heading column i.e 0, 1, 2, 3
+# Here will the issues of branch considered
+# dates
+# remove heading column
 import os
 import pandas as pd
 import camelot
